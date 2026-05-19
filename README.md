@@ -22,3 +22,9 @@ After that, launch the portal and you'll see the interface.
 Lichess-STB is heavily in **alpha**. Some features may break.
 
 Please open an issue directly on the repository issues page
+
+## Todo list
+
+Fix chessboard bug when playing variants
+
+Interaction with in-menu right sidebar
