@@ -4,6 +4,8 @@ An optimized, lightweight lichess.org client designed for Infomir Set-top boxes.
 
 ### How to install
 
+Download the release on https://github.com/yess44909/Lichess-STB/releases/tag/v0.1
+
 You have to use an webserver. For beginners, I recommend using XAMPP if you're on Windows.
 
 _This is designed to run on Apache_
