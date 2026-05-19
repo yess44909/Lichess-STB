@@ -10,7 +10,7 @@ You have to use an webserver. For beginners, I recommend using XAMPP if you're o
 
 You will absolutely **need** to create an Lichess API key before playing! Create yours at https://lichess.org/account/oauth/token
 
-On ../lichess/api/config.php, change $API_TOKEN = "undefined"; by your API key which starts with LIP_...
+On ../lichess/api/config.php, change $token = "undefined"; by your API key which starts with LIP_...
 
 _This is designed to run on Apache and PHP._
 
@@ -34,8 +34,6 @@ Please open an issue directly on the repository issues page
 Fix chessboard bug when playing variants
 
 Interaction with in-menu right sidebar
-
-Making Bullet/Blitz matches possible, as making matches like these cause a soft lock
 
 Better menu interface
 
