@@ -32,3 +32,9 @@ Please open an issue directly on the repository issues page
 Fix chessboard bug when playing variants
 
 Interaction with in-menu right sidebar
+
+Making Bullet/Blitz matches possible, as making matches like these cause a soft lock
+
+Better menu interface
+
+Add chatting
