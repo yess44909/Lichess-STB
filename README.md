@@ -10,6 +10,8 @@ You have to use an webserver. For beginners, I recommend using XAMPP if you're o
 
 You will absolutely **need** to create an Lichess API key before playing! Create yours at https://lichess.org/account/oauth/token
 
+On ../lichess/api/config.php, change $API_TOKEN = "undefined"; by your API key which starts with LIP_...
+
 _This is designed to run on Apache and PHP._
 
 Copy the whole lichess folder into your environnement, like as example "C:\xampp\htdocs\lichess"
