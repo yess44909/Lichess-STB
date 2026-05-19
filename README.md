@@ -1,4 +1,4 @@
-### Lichess-STB
+# Lichess-STB
 
 An optimized, lightweight lichess.org client designed for Infomir Set-top boxes.
 
