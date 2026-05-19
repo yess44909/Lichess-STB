@@ -8,6 +8,8 @@ Download the release on https://github.com/yess44909/Lichess-STB/releases/tag/v0
 
 You have to use an webserver. For beginners, I recommend using XAMPP if you're on Windows.
 
+You will absolutely **need** to create an Lichess API key before playing!
+
 _This is designed to run on Apache_
 
 Copy the whole lichess folder into your environnement, like as example "C:\xampp\htdocs\lichess"
