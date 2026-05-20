@@ -39,6 +39,10 @@ Better menu interface
 
 Add chatting
 
+## Issues
+
+Making Bullet matches is currently impossible, as Lichess Board API doesnt allow Bullet matches for fair matchmaking.
+
 ## Supported models
 
 All builds are tested on MAG254. Lichess-STB is compatible with MAG200 - MAG544w3
