@@ -38,3 +38,7 @@ Interaction with in-menu right sidebar
 Better menu interface
 
 Add chatting
+
+## Supported models
+
+All builds are tested on MAG254. Lichess-STB is compatible with MAG200 - latest.
