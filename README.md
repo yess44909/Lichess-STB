@@ -29,20 +29,78 @@ Lichess-STB is heavily in **alpha**. Some features may break.
 
 Please open an issue directly on the repository issues page
 
-## Todo list
+## Pros
 
-Fix chessboard bug when playing variants
+Playable lichess.org matches
 
-Interaction with in-menu right sidebar
+Faithful in-game experience
 
-Better menu interface
+Move sidebar
 
-Add chatting
+Quick playing
 
-## Issues
+Cursor box to help navigation
 
-Making Bullet matches is currently impossible, as Lichess Board API doesnt allow Bullet matches for fair matchmaking.
+Viewing tournament list
 
-## Supported models
+SFX/audio played through the STB Player
 
-All builds are tested on MAG254. Lichess-STB is compatible with MAG200 - MAG544w3
+## Cons
+
+Bullet,UltraBullet matches are not playable due to the Lichess Board API prohibits utilization for fair play
+
+Heavily full of bugs
+
+Some lower resolutions may look odd or scuffed
+
+No analysis
+
+Tournaments are not joinable
+
+Chessboard issues (pieces dissapearing)
+
+No interactions with menu sidebars
+
+Themes are only customizable manually
+
+Most complex variants have unexpected behavior
+
+Correspendence matches make a in-game continous loop, so make sure to not have alot of ongoing matches
+
+## Todos
+
+Better chessboard maintenance
+
+More menus
+
+More variant support
+
+Chatting
+
+ChessTV (you get it)
+
+Enchanced resolution compability
+
+Interaction with most sidebars
+
+Promotion to a piece other than Queen
+
+Spectating your friends
+
+Viewing your profile user in-menu
+
+Viewing your ELO in-game
+
+## Compability
+
+All builds are tested on my MAG254. Lichess-STB is compatible with MAG200 - MAG544w3
+
+Android Set-top boxes are supported.
+You'll need a STB Emulator such as StbEmu (from Play Store)
+
+## Currently mapped keys
+
+BACK = Exit in-game
+HOME = Exit the application
+F1 = Resign (automatically)
+F2 = Draw (status won't update)
