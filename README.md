@@ -23,6 +23,13 @@ example: http://192.168.X.XX/lichess/index.html
 
 After that, launch the portal and you'll see the interface.
 
+
+## Screenshots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1545452-94a0-4790-b1eb-f48343124d40" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d32c8fc-496e-4f03-89b3-27e106e03225" />
+
 ### Notice
 
 Lichess-STB is heavily in **alpha**. Some features may break.
