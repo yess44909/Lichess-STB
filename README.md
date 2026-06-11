@@ -6,15 +6,13 @@ An optimized, lightweight lichess.org client designed for Infomir Set-top boxes.
 
 Download the release on https://github.com/yess44909/Lichess-STB/releases/tag/v0.2
 
-You have to use an webserver. For beginners, I recommend using XAMPP if you're on Windows.
+You have to use an webserver. For beginners, I recommend using [Apache Friends XAMPP](https://www.apachefriends.org/) if you have no experience with webservers.
 
 You will absolutely **need** to create an Lichess API key before playing! Create yours at https://lichess.org/account/oauth/token
 
 On ../lichess/api/config.php, change $token = "undefined"; by your API key which starts with lip_...
 
 You can also configure which theme you want with config.php
-
-_This is designed to run on Apache and PHP._
 
 Copy the whole lichess folder into your environnement, like as example "C:\xampp\htdocs\lichess"
 
