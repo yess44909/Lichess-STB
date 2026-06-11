@@ -10,7 +10,9 @@ You have to use an webserver. For beginners, I recommend using XAMPP if you're o
 
 You will absolutely **need** to create an Lichess API key before playing! Create yours at https://lichess.org/account/oauth/token
 
-On ../lichess/api/config.php, change $token = "undefined"; by your API key which starts with LIP_...
+On ../lichess/api/config.php, change $token = "undefined"; by your API key which starts with lip_...
+
+You can also configure which theme you want with config.php
 
 _This is designed to run on Apache and PHP._
 
@@ -32,7 +34,7 @@ After that, launch the portal and you'll see the interface.
 
 ### Notice
 
-Lichess-STB is heavily in **alpha**. Some features may break.
+Lichess-STB is in **beta**. It's not stable.
 
 Please open an issue directly on the repository issues page
 
@@ -46,6 +48,10 @@ Move sidebar
 
 Quick playing
 
+Challenging your friends
+
+Creating bot matches
+
 Cursor box to help navigation
 
 Viewing tournament list
@@ -56,19 +62,13 @@ SFX/audio played through the STB Player
 
 Bullet,UltraBullet matches are not playable due to the Lichess Board API prohibits utilization for fair play
 
-Heavily full of bugs
+Kinda buggy
 
 Some lower resolutions may look odd or scuffed
 
 No analysis
 
 Tournaments are not joinable
-
-Chessboard issues (pieces dissapearing)
-
-No interactions with menu sidebars
-
-Themes are only customizable manually
 
 Most complex variants have unexpected behavior
 
@@ -88,13 +88,13 @@ ChessTV (you get it)
 
 Enchanced resolution compability
 
-Interaction with most sidebars
-
 Spectating your friends
 
 Viewing your profile user in-menu
 
 Viewing your ELO in-game
+
+Adding background themes
 
 ## Compability
 
